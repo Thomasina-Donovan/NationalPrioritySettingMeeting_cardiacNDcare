@@ -1,0 +1,156 @@
+---
+title: "HSR24 PreConference"
+format: 
+  html:
+      theme:
+        light: brightly
+        dark: darkly
+---
+
+::: {.nav-pills}
+::: {.panel-tabset}
+
+# About
+
+## WORKSHOP 2: Introduction to Implementation Science
+
+### Workshop description
+
+The Health Services Research Association of Australia and New Zealand (HSRAANZ) is pleased to announce a half-day workshop on Implementation Science Skills in Practice, to be delivered by members of the Queensland University of Technology’s Australian Centre for Health Services Innovation (AusHSI).
+
+This introductory workshop is suitable for researchers, clinicians and policymakers who want to understand the role implementation science can play in improving the design, delivery and evaluation of health services and interventions.
+
+This workshop will cover topics such as:
+
+Implementation Science 101: an introduction for beginners; Theories, models and frameworks for implementation; Implementation strategies; Implementation outcomes; Understanding implementation context, including identifying barriers and enablers; and How to practically apply implementation science methodologies in the real-world. The content will be delivered by a team of experts from AusHSI including Associate Professor Zephanie Tyack, Dr Bridget Abell, Dr Sundresan Naicker, Dr Michelle Allen and Ms Thomasina Donovan.
+
+The first part of the workshop will include presentations which will give attendees a good introduction to key ideas in the field and provide examples of how implementation science and implementation frameworks have been used in the design and implementation of real-world problems and projects. The second session will be a hands-on activity where participants will be given qualitative data and interview excerpts from real implementation studies and be guided through the process of mapping this data to a selected implementation framework (CFIR or NASSS) to identify study barriers and enablers and discuss potential implementation strategies. Finally, the day will conclude with a panel Q & A session where attendees can ask the presenters their burning implementation questions or follow-up any topics from throughout the afternoon.
+
+
+### Pre-reading material
+
+REQUIRED: University of Washington Implementation Science Hub: [What is implementation science](https://impsciuw.org/implementation-science/learn/implementation-science-overview/)
+
+RECOMMENDED: [Theories, Models and Frameworks](https://airdrive.eventsair.com/eventsairaueprod/production-eventstudio-public/2e472a0458ad47afb6ca9517f4882c02) & [Implementation Strategies](https://airdrive.eventsair.com/eventsairaueprod/production-eventstudio-public/c720c48f8c114d0e8f32513586aa64db)
+
+OPTIONAL:  [CFIR](https://airdrive.eventsair.com/eventsairaueprod/production-eventstudio-public/9c58c49bb1cb46d7b3624514b62a99f3) & [NASSS](https://airdrive.eventsair.com/eventsairaueprod/production-eventstudio-public/337734a167d741fe98b59879b1770ca2) (two frameworks being used for the activity)
+
+
+### Location  
+
+UQ Herston campus, Oral Health Building
+
+
+### Contact
+
+All enquiries please direct to the workshop coordinator, Dr Bridget Abell at bridget.abell@qut.edu.au 
+
+[HSR24 Conference website](https://eventstudio.eventsair.com/hsr-2024-conference/)
+
+
+
+
+# Acivity Materials
+
+The following information is provided for the participants of [Workshop 2: Introduction to Implementation Science](https://eventstudio.eventsair.com/hsr-2024-conference/workshops), a Pre-Conference workshop at [HSR24 Conference](https://eventstudio.eventsair.com/hsr-2024-conference/)
+
+
+::: {.nav-pills}
+::: {.panel-tabset}
+
+## Activity Worksheet
+
+#### [Case Study 1](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 1/ActivityWorksheet_CaseStudy1_Blank.docx)
+
+A national context assessment of developmental follow-up of children with congenital heart disease
+
+
+#### [Case Study 2](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 2/ActivityWorksheet_CaseStudy2_Blank.docx)
+
+“So, we need to optimise" – applying the NASSS framework across adoption stages to identify implementation strategies 
+
+
+#### [Case Study 3](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_Blank_Final.docx)
+
+Context assessment: Trauma informed care 
+
+
+
+## Activity answers
+
+When you are ready to confirm the answers from the activity downloaded the corresponding answer sheet below.
+
+[Case Study 1 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 1/ActivityWorksheet_CaseStudy1_ANSWERS.docx) 
+ 
+[Case Study 2 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 2/ActivityWorksheet_CaseStudy2_ANSWERS.docx)
+
+[Case Study 3 Answers](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Case Study 3/ActivityWorksheet_CaseStudy3_ANSWERS_Final.docx)
+ 
+
+:::
+:::
+
+
+
+# Imp. Sci. Frameworks and Resources
+
+#### Consolidated Framework for Implementation Research (CFIR)
+[CFIR website](https://cfirguide.org/constructs/)
+
+[CFIR codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/CFIR General Codebook.pdf)
+
+[Exemplar coding](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Exemplar coding.pdf)
+
+
+#### Nonadoption, Abandonment, Scale-up, Spread, and Sustainability (NASSS) framework
+[NASSS paper](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1463-x)
+
+[NASSS codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/NASSS Codebook.docx)
+
+[NASSS-CAT](https://www.researchprotocols.org/2020/5/e16861/)
+
+Retrospective application of NASSS in a [review](https://link.springer.com/article/10.1186/s13012-023-01287-y)
+
+####  Expert Recommendations for Implementing Change (ERIC) framework
+[ERIC paper](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-015-0295-0)
+
+[ERIC codebook](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/ERIC-Strategy-Handout.pdf)
+
+
+#### Equity Frameworks
+
+[APEASE overview](https://www.behaviourworksaustralia.org/blog/how-do-you-select-the-most-appropriate-behaviour-change-intervention)
+
+[APEASE paper](https://implementationscience.biomedcentral.com/articles/10.1186/1748-5908-6-42)
+
+[Health equity framework](https://link.springer.com/article/10.1007/s10459-023-10277-0)
+
+[A review on equity frameworks](https://implementationscience.biomedcentral.com/articles/10.1186/s13012-023-01304-0)
+
+
+#### University of Washington Implementation Science Hub
+
+[What is implementation science](https://impsciuw.org/implementation-science/learn/implementation-science-overview/)
+
+[Topics in implementation science](https://impsciuw.org/implementation-science/learn/topics-in-implementation-science/)
+
+[Conducting research in implementation science](https://impsciuw.org/implementation-science/research/)
+
+
+
+# Presentation slides
+
+Please find below slides from the presentations at the Introduction to Implementation Science (Workshop 2 of HSR24 Conference)
+
+[Implementation 101](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Slides for github/Imp_Sci_101_BA.pdf) by Bridget Abell
+
+[TDF and NASS](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Slides for github/Workshop_HSR24 TDF and NASSS SN_.pptx) by Sundresan "Sunny" Naicker 
+
+[CFIR case study](https://github.com/Thomasina-Donovan/ImpSciWorkshop_HSR24/raw/main/assets/Slides for github/WorkshopActivity_HSR24_CFIR_FinalR.pdf) by Zephanie Tyack
+
+
+:::
+:::
+
+
+*This work is openly licensed via [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
