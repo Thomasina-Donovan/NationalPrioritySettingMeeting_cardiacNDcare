@@ -23,9 +23,8 @@ This event is led by the Australian Centre for Health Services Innovation (AusHS
 
 This forum aims to inform future initiatives, funding, and delivery of neurodevelopmental care for families and children with CHD. It will provide a platform for consumer advocates and expert input into collaborative priority setting for best practice neurodevelopmental care for children with CHD.
 
-The meeting will be co-facilitated with and informed by our strong collaborative partnership with HeartKids, and the information collected will help shape reporting of the discussion and priorities. Relevant study protocol and ethics approval will be sought to enable these activities to be published.Workshop description
+The meeting will be co-facilitated with and informed by our strong collaborative partnership with HeartKids, and the information collected will help shape reporting of the discussion and priorities. Relevant study protocol and ethics approval were approved to enable these activities to be published.
 
-The Health Services Research Association of Australia and New Zealand (HSRAANZ) is pleased to announce a half-day workshop on Implementation Science Skills in Practice, to be delivered by members of the Queensland University of Technology’s Australian Centre for Health Services Innovation (AusHSI).
 
 
 # Priorities
@@ -39,7 +38,9 @@ The Health Services Research Association of Australia and New Zealand (HSRAANZ) 
 
 We would like to offer you the chance to provide any further comments or information that you think we should consider as part of today’s priority setting meeting. 
 
-Please note, we will qualitatively analyse, synthesise and summarise all responses, aiming to include this data in the final report and any publications where possible. Please follow this [link](https://qsurvey.qut.edu.au/jfe/form/SV_0fgdWbDfcab4nXg) to access an online form to provide any additional comments. 
+Please note, we will qualitatively analyse, synthesise and summarise all responses, aiming to include this data in the final report and any publications where possible. 
+
+Please follow this [link](https://qsurvey.qut.edu.au/jfe/form/SV_0fgdWbDfcab4nXg) to access an online form to provide any additional comments. 
 
 The form will remain open for 2 working days  (i.e. will close at 5pm on Monday 10th November). 
 Data will be collected anonymously unless you choose to share you name/details with us.
@@ -53,13 +54,15 @@ After the meeting, we’ll send out a short evaluation survey to gather your fee
 
 
 # CHD LIFE+
+
+### About CHD LIFE+
 The national priority setting meeting will be held as a culminating event of the CHD LIFE+ program of research.
 
 The CHD LIFE+ program of research aims to evaluate existing and potential models of care for CHD neurodevelopmental support to inform future practice. 
 
 CHD LIFE+ is a partnership between those listed below and on Page 3 of the briefing paper. It is funded by a MRFF Cardiovascular Mission Congenital Heart Disease Grant (ARGCHDG0035) 2020-2025.
 
-![CHD LIFE+ partner organisations](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/All partners.png)
+![CHD LIFE+ partner organisations](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/All partners_v2.png)
 
 More about CHD LIFE+ [here](https://www.aushsi.org.au/aushsi-research/congenital-heart-disease-long-term-improvements-in-functional-health/?portfolioCats=15) on AusHSI's website
 
@@ -107,8 +110,20 @@ The national priority setting meeting is organised and led by the CHD LIFE+ mana
 
 # Community of practice
 
+### About the community of practice (CoP)
+
+Established June 2024, meets monthly: 
+
+*    Ongoing dialogue, collaboration, and sharing of ideas between jurisdictional project teams
+*    Open communication between the academic project team and national partners
+*    Ongoing capacity building of clinicians and services
+*    National partnerships for sustainability of ongoing work in this space
+*    The generation of collective national project outputs and learnings to inform future priorities
+
+
 ## copy of what is printed on the tables.
 
+![CoP values](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/COP.png)
 
 # Contacts
 
