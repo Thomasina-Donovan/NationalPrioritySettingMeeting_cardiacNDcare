@@ -52,26 +52,25 @@ After the meeting, we’ll send out a short evaluation survey to gather your fee
 
 
 
-# Resources
+# CHD LIFE+
+The national priority setting meeting will be held as a culminating event of the CHD LIFE+ program of research.
+
+The CHD LIFE+ program of research aims to evaluate existing and potential models of care for CHD neurodevelopmental support to inform future practice. 
+
+CHD LIFE+ is a partnership between those listed below and on Page 3 of the briefing paper. It is funded by a MRFF Cardiovascular Mission Congenital Heart Disease Grant (ARGCHDG0035) 2020-2025.
+
+![CHD LIFE+ partner organisations](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/All partners.png)
+
+More about CHD LIFE+ [here](https://www.aushsi.org.au/aushsi-research/congenital-heart-disease-long-term-improvements-in-functional-health/?portfolioCats=15) on AusHSI's website
+
 
 ## Briefing paper
 
+A briefing paper was developed to explain how things currently work when it comes to supporting children with congenital heart disease (CHD) and their families across Australia. The paper looks at what’s helping, what’s getting in the way, and where there might be room to improve. It was based on earlier work from the CHD LFIE+ research program. 
+
+It’s purpose is to give everyone a clear picture of the current situation so that the meeting with a shared understanding and focus on what’s next. This briefing paper starts by outlining the event and then explains why it is needed. It is intended to cover the status quo, acting as a springboard for the meeting to start from. The meeting is then free to be future focused. 
 
 [Download here](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/Briefing Paper for national priority setting meeting in cardiac neurodevelopmental care.pdf)
-
-
-### About the briefing paper
-The CHD LIFE+ program of research aims to evaluate existing and potential models of care for CHD neurodevelopmental support to inform future practice. 
-
-CHD LIFE+ is a partnership between those listed below. It is funded by a MRFF Cardiovascular Mission Congenital Heart Disease Grant (ARGCHDG0035) 2020-2025.
-
-A national priority setting meeting will be held as a culminating event of the CHD LIFE+ program.
-
-This briefing paper starts by outlining the event and then explains why it is needed. It is intended to cover the status quo, acting as a springboard for the meeting to start from. The meeting is then free to be future focused. 
-
-![CHD LIFE+ partners and teams](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/All partners.png)
-
-
 
 ### Briefing paper authorship 
 The national priority setting meeting is organised and led by the CHD LIFE+ management committee, and this briefing paper has been written and prepared by the CHD LIFE+ management committee.
@@ -89,6 +88,20 @@ The national priority setting meeting is organised and led by the CHD LIFE+ mana
 *    Jenna English
 *    Jessica Keating
 
+## CHD LIFE+ Publications
+
+[The Cost of Neurodevelopmental Disability: Scoping Review of Economic Evaluation Methods](https://doi.org/10.2147/CEOR.S370311)
+
+[Implementing neurodevelopmental follow-up care for children with congenital heart disease: A scoping review with evidence mapping](https://doi.org/10.1111/dmcn.15698)
+
+[“It’s more than just a conversation about the heart”: exploring barriers, enablers, and opportunities for improving the delivery and uptake of cardiac neurodevelopmental follow-up care](https://doi.org/10.3389/fped.2024.1364190)
+
+[Family and health professional perspectives of the CHD LIFE cardiac developmental long-term care pathway: a qualitative evaluation](https://doi.org/10.1038/s41390-025-04380-8)
+
+
+## Other relevant resources
+
+[Australian National Standards of Care for Childhood-onset Heart Disease](https://cohdnationalstandards.com.au/)
 
 
 
