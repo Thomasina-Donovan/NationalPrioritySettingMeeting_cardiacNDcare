@@ -50,18 +50,46 @@ After the meeting, we’ll send out a short evaluation survey to gather your fee
 
 **Why we’re doing this survey:** We want to learn how well the priority setting process worked - what went well, what could be better, and whether the right priorities were chosen. Your feedback will help us improve this kind of activity in the future.
 
-::: {.nav-pills}
-::: {.panel-tabset}
 
-
-:::
-:::
 
 # Resources
 
 ## Briefing paper
 
-[Download here]
+
+[Download here](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/Briefing Paper for national priority setting meeting in cardiac neurodevelopmental care.pdf)
+
+
+### About the briefing paper
+The CHD LIFE+ program of research aims to evaluate existing and potential models of care for CHD neurodevelopmental support to inform future practice. 
+
+CHD LIFE+ is a partnership between those listed below. It is funded by a MRFF Cardiovascular Mission Congenital Heart Disease Grant (ARGCHDG0035) 2020-2025.
+
+![CHD LIFE+ partners and teams](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/All partners.png)
+
+A national priority setting meeting will be held as a culminating event of the CHD LIFE+ program.
+
+This briefing paper starts by outlining the event and then explains why it is needed. It is intended to cover the status quo, acting as a springboard for the meeting to start from. The meeting is then free to be future focused. 
+
+
+
+### Briefing paper authorship 
+The national priority setting meeting is organised and led by the CHD LIFE+ management committee, and this briefing paper has been written and prepared by the CHD LIFE+ management committee.
+
+*    Steven McPhail 
+*    Robert Justo
+*    Karen Eagleson
+*    Ben Auld
+*    Will Parsonage
+*    Bridget Abell
+*    Thomasina Donovan
+*    Nicole White
+*    Pakhi Sharma
+*    Alison Farrington
+*    Jenna English
+*    Jessica Keating
+
+
 
 
 # Community of practice
