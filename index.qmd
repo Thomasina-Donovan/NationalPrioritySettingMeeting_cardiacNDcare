@@ -28,12 +28,27 @@ The meeting will be co-facilitated with and informed by our strong collaborative
 The Health Services Research Association of Australia and New Zealand (HSRAANZ) is pleased to announce a half-day workshop on Implementation Science Skills in Practice, to be delivered by members of the Queensland University of Technology’s Australian Centre for Health Services Innovation (AusHSI).
 
 
-# Voting via mentimeter
+# Priorities
+
 
 ## Mentimeter 
 [link](https://www.menti.com/aln8x9bh2hcq)
 
 
+## Do you have more to say? 
+
+We would like to offer you the chance to provide any further comments or information that you think we should consider as part of today’s priority setting meeting. 
+
+Please note, we will qualitatively analyse, synthesise and summarise all responses, aiming to include this data in the final report and any publications where possible. Please follow this [link](https://qsurvey.qut.edu.au/jfe/form/SV_0fgdWbDfcab4nXg) to access an online form to provide any additional comments. 
+
+The form will remain open for 2 working days  (i.e. will close at 5pm on Monday 10th November). 
+Data will be collected anonymously unless you choose to share you name/details with us.
+
+## Evaluation survey
+
+After the meeting, we’ll send out a short evaluation survey to gather your feedback on the meeting processes, methods, and outcomes.
+
+**Why we’re doing this survey:** We want to learn how well the priority setting process worked - what went well, what could be better, and whether the right priorities were chosen. Your feedback will help us improve this kind of activity in the future.
 
 ::: {.nav-pills}
 ::: {.panel-tabset}
@@ -46,13 +61,15 @@ The Health Services Research Association of Australia and New Zealand (HSRAANZ) 
 
 ## Briefing paper
 
+[Download here]
 
-# COP
+
+# Community of practice
 
 ## copy of what is printed on the tables.
 
 
-# Post-event contacts
+# Contacts
 
 ## Reach out to the team via email:
 
@@ -62,7 +79,7 @@ For meeting outputs contact [Thommi](mailto:thomasina.donovan@qut.edu.au)
 
 For meeting methodology contact [Bridget](mailto:Bridget.Abell@qut.edu.au)
 
-For COP inquires contact [Karen](mailto:karen.eagleson@health.qld.gov.au)
+For Community of Practics inquires contact [Karen](mailto:karen.eagleson@health.qld.gov.au)
 
 
 :::
