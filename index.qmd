@@ -10,6 +10,57 @@ format:
 ::: {.nav-pills}
 ::: {.panel-tabset}
 
+# Have your say
+
+
+## Vote on the importance and feasibility of each priority 
+
+Use your personal device (phone or laptop) to vote electronically on the importance and feasibility of each priority.
+
+1.  **Open the questionnaire**:
+    *    [Follow this link](https://www.menti.com/aln8x9bh2hcq) to Mentimeter. 
+    *    Or join at [menti.com](https://www.menti.com/) | use code **5756 7874** 
+
+2. **Rate each priority** from 1-10 based on:
+   *    **Importance**: How impactful is this priority?
+   *    **Feasibility**: How achievable is it with available resources?
+
+3. **View the results**:
+After voting, Mentimeter will display the average scores on a 2x2 matrix, showing all priorities plotted by importance and feasibility.
+
+
+
+### About the Matrix
+The **Importance–Feasibility Matrix** helps evaluate tasks, projects, or ideas based on their potential impact and effort required. This visual tool supports better resource allocation and decision-making.
+
+**Categories:**
+
+*    Quick wins: High importance, high feasibility
+*    Major projects: High importance, low feasibility
+*    Low-impact tasks: Low importance, high feasibility
+*    Time-consuming tasks: Low importance, low feasibility
+
+
+## Provide feedback on priorities
+
+**Do you have more to say?**
+
+We would like to offer you the chance to provide any further comments or information that you think we should consider as part of today’s priority setting meeting. 
+
+Please note, we will qualitatively analyse, synthesise and summarise all responses, aiming to include this data in the final report and any publications where possible. 
+
+[Follow this link](https://qsurvey.qut.edu.au/jfe/form/SV_0fgdWbDfcab4nXg) to access an online form to provide any additional comments. 
+
+The form will remain open for 2 working days  (i.e. will close at 5pm on Monday 10th November). 
+Data will be collected anonymously unless you choose to share you name/details with us.
+
+## Evaluation survey
+
+After the meeting, we’ll send out a short evaluation survey to gather your feedback on the meeting processes, methods, and outcomes.
+
+**Why we’re doing this survey:** We want to learn how well the priority setting process worked - what went well, what could be better, and whether the right priorities were chosen. Your feedback will help us improve this kind of activity in the future.
+
+
 # About
 
 ### About the meeting
@@ -26,36 +77,17 @@ This forum aims to inform future initiatives, funding, and delivery of neurodeve
 The meeting will be co-facilitated with and informed by our strong collaborative partnership with HeartKids, and the information collected will help shape reporting of the discussion and priorities. Relevant study protocol and ethics approval were approved to enable these activities to be published.
 
 
+# Pre-reading
 
-# Priorities
+## Briefing paper
 
+A briefing paper was developed to explain how things currently work when it comes to supporting children with congenital heart disease (CHD) and their families across Australia. The paper looks at what’s helping, what’s getting in the way, and where there might be room to improve. It was based on earlier work from the CHD LIFE+ research program. 
 
-## Mentimeter 
-[link](https://www.menti.com/aln8x9bh2hcq)
+It’s purpose is to provide a clear picture of the current situation so that the meeting can start with a shared understanding and focus on what’s next. This briefing paper starts by outlining the event and then explains why it is needed. 
 
+[Download here](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/Briefing Paper for national priority setting meeting in cardiac neurodevelopmental care.pdf)
 
-## Do you have more to say? 
-
-We would like to offer you the chance to provide any further comments or information that you think we should consider as part of today’s priority setting meeting. 
-
-Please note, we will qualitatively analyse, synthesise and summarise all responses, aiming to include this data in the final report and any publications where possible. 
-
-Please follow this [link](https://qsurvey.qut.edu.au/jfe/form/SV_0fgdWbDfcab4nXg) to access an online form to provide any additional comments. 
-
-The form will remain open for 2 working days  (i.e. will close at 5pm on Monday 10th November). 
-Data will be collected anonymously unless you choose to share you name/details with us.
-
-## Evaluation survey
-
-After the meeting, we’ll send out a short evaluation survey to gather your feedback on the meeting processes, methods, and outcomes.
-
-**Why we’re doing this survey:** We want to learn how well the priority setting process worked - what went well, what could be better, and whether the right priorities were chosen. Your feedback will help us improve this kind of activity in the future.
-
-
-
-# CHD LIFE+
-
-### About CHD LIFE+
+## About CHD LIFE+
 The national priority setting meeting will be held as a culminating event of the CHD LIFE+ program of research.
 
 The CHD LIFE+ program of research aims to evaluate existing and potential models of care for CHD neurodevelopmental support to inform future practice. 
@@ -67,16 +99,7 @@ CHD LIFE+ is a partnership between those listed below and on Page 3 of the brief
 More about CHD LIFE+ [here](https://www.aushsi.org.au/aushsi-research/congenital-heart-disease-long-term-improvements-in-functional-health/?portfolioCats=15) on AusHSI's website
 
 
-## Briefing paper
-
-A briefing paper was developed to explain how things currently work when it comes to supporting children with congenital heart disease (CHD) and their families across Australia. The paper looks at what’s helping, what’s getting in the way, and where there might be room to improve. It was based on earlier work from the CHD LIFE+ research program. 
-
-It’s purpose is to provide a clear picture of the current situation so that the meeting can start with a shared understanding and focus on what’s next. This briefing paper starts by outlining the event and then explains why it is needed. 
-
-[Download here](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/Briefing Paper for national priority setting meeting in cardiac neurodevelopmental care.pdf)
-
-
-## CHD LIFE+ Publications
+### CHD LIFE+ Publications
 
 [The Cost of Neurodevelopmental Disability: Scoping Review of Economic Evaluation Methods](https://doi.org/10.2147/CEOR.S370311)
 
@@ -112,7 +135,7 @@ Established June 2024, meets monthly:
 
 # Contacts
 
-## Reach out to the team via email:
+### Reach out to the team via email:
 
 For travel inquiries contact [Alison](mailto:alison.farrington@qut.edu.au)
 
