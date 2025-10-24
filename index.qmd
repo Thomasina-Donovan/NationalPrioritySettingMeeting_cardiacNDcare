@@ -28,17 +28,17 @@ Use your personal device (phone or laptop) to vote electronically on the importa
 3. **View the results**:
 After voting, Mentimeter will display the average scores on a 2x2 matrix, showing all priorities plotted by importance and feasibility.
 
-
+![2x2 matrix](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/Mentimeter.png)
 
 ### About the Matrix
 The **Importance–Feasibility Matrix** helps evaluate tasks, projects, or ideas based on their potential impact and effort required. This visual tool supports better resource allocation and decision-making.
 
 **Categories:**
 
-*    Quick wins: High importance, high feasibility
-*    Major projects: High importance, low feasibility
-*    Low-impact tasks: Low importance, high feasibility
-*    Time-consuming tasks: Low importance, low feasibility
+*    ***Quick wins***: High importance, high feasibility
+*    ***Major projects***: High importance, low feasibility
+*    ***Low-impact tasks***: Low importance, high feasibility
+*    ***Time-consuming tasks***: Low importance, low feasibility
 
 
 ## Provide feedback on priorities
