@@ -21,7 +21,7 @@ Use your personal device (phone or laptop) to vote electronically on the importa
     *    [Follow this link](https://www.menti.com/aln8x9bh2hcq) to Mentimeter. 
     *    Or join at [menti.com](https://www.menti.com/) | use code **5756 7874** 
 
-2. **Rate each priority** from 1-10 based on:
+2. **Rate each priority** from 1 (not important/feasible) to 10( very important/feasible) based on:
    *    **Importance**: How impactful is this priority?
    *    **Feasibility**: How achievable is it with available resources?
 
@@ -81,7 +81,7 @@ The meeting will be co-facilitated with and informed by our strong collaborative
 
 ## Briefing paper
 
-A briefing paper was developed to explain how things currently work when it comes to supporting children with congenital heart disease (CHD) and their families across Australia. The paper looks at what’s helping, what’s getting in the way, and where there might be room to improve. It was based on earlier work from the CHD LIFE+ research program. 
+A briefing paper was developed to explain how things currently work when it comes to caring for children with congenital heart disease (CHD) and their families across Australia. The paper looks at what’s helping, what’s getting in the way, and where there might be room to improve. It was based on earlier work from the CHD LIFE+ research program. 
 
 It’s purpose is to provide a clear picture of the current situation so that the meeting can start with a shared understanding and focus on what’s next. This briefing paper starts by outlining the event and then explains why it is needed. 
 
@@ -118,9 +118,9 @@ More about CHD LIFE+ [here](https://www.aushsi.org.au/aushsi-research/congenital
 
 # Community of practice
 
-### About the community of practice (CoP)
+![ ](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/FINAL_Website.png)
 
-![CoP values](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/FINAL_Website.png)
+### Want to join?
 
 Please contact [Karen Eagleson](mailto:karen.eagleson@health.qld.gov.au)
 
