@@ -22,8 +22,8 @@ Use your personal device (phone or laptop) to vote electronically on the importa
     *    Or join at [menti.com](https://www.menti.com/) | use code **5756 7874** 
 
 2. **Rate each priority** from 1 (not important/feasible) to 10( very important/feasible) based on:
-   *    **Importance**: How impactful is this priority?
-   *    **Feasibility**: How achievable is it with available resources?
+   *    **Importance**: How critical or impactful is actioning this priority for improving neurodevelopmental outcomes and follow-up care for children with CHD in Australia?
+   *    **Feasibility**: How realistically and easily can this priority be actioned within our current capacity (e.g., time, budget, skills, partnerships, infrastructure, policy)? 
 
 3. **View the results**:
 After voting, Mentimeter will display the average scores on a 2x2 matrix, showing all priorities plotted by importance and feasibility.
@@ -51,21 +51,40 @@ Please note, we will qualitatively analyse, synthesise and summarise all respons
 
 [Follow this link](https://qsurvey.qut.edu.au/jfe/form/SV_0fgdWbDfcab4nXg) to access an online form to provide any additional comments. 
 
-The form will remain open for 2 working days  (i.e. will close at 5pm on Monday 10th November). 
+The form will remain **open for 2 working days**  (i.e. will close at 5pm on Monday 10th November). 
 Data will be collected anonymously unless you choose to share you name/details with us.
 
 ## Evaluation survey
 
-After the meeting, we’ll send out a short evaluation survey to gather your feedback on the meeting processes, methods, and outcomes.
+After the meeting, you'll be invited to complete a short evaluation survey to gather your feedback on the meeting processes, methods, and outcomes.
 
-**Why we’re doing this survey:** We want to learn how well the priority setting process worked - what went well, what could be better, and whether the right priorities were chosen. Your feedback will help us improve this kind of activity in the future.
+To complete the survey, navigate to the *post-event evaluation survey* tab and follow the link. Or wait for an email in the coming weeks.
+
+
+# Post-Event Evaluation Survey
+
+## Post-Event Evaluation Survey
+
+Thank you for taking part in the CHD LIFE+ National Priority Setting Meeting. We’d like to invite you to take part in a short survey to help us understand how well the methods and activities worked during the meeting. 
+
+This survey will open for responses **from 4pm on Thursday** the 6th November and remain open **for two weeks**. We will also email all of today’s participants a link to the survey next week.
+
+#### Why we’re doing this survey
+
+We want to learn how well the priority setting process worked - what went well, what could be better, and whether the right priorities were chosen. We are also evaluating the specific methods we used like 25/10 crowdsourcing and the feasibility/importance matrix. Your feedback will help us improve this kind of activity in the future. The survey has [X] questions and should take about x minutes to finish.
+
+#### Your choice to take part
+
+You don’t have to do the survey if you don’t want to. Even if you said yes to being part of the research and meeting before, you can still change your mind now. You can skip any questions you don’t want to answer, and you can stop the survey at any time by closing your browser.
+
+**Access the survey [here](blank)**
 
 
 # About
 
 ### About the meeting
 
-This priority setting meeting aims to bring together key stakeholders, including consumers, who work and/or have lived experience in neurodevelopmental care for children with congenital heart disease (CHD). It builds on established networks and partnerships in the CHD LIFE+ program of research and in a range of CHD children and family care settings and contexts. The meeting aims to extend and sustain these collaborative networks beyond the life of the CHD LIFE+ study and into a future.
+This priority setting meeting aims to bring together key stakeholders, including consumers, who work and/or have lived experience in neurodevelopmental care for children with congenital heart disease (CHD). It builds on established networks and partnerships in the CHD LIFE+ program of research and in a range of CHD children and family care settings and contexts. The meeting aims to extend and sustain these collaborative networks beyond the life of the CHD LIFE+ study and into the future.
 
 This event is led by the Australian Centre for Health Services Innovation (AusHSI), Queensland University of Technology (QUT), and Queensland Paediatric Cardiac Service (QPCS), Children’s Health Queensland (CHQ).
 
@@ -101,13 +120,15 @@ More about CHD LIFE+ [here](https://www.aushsi.org.au/aushsi-research/congenital
 
 ### CHD LIFE+ Publications
 
-[The Cost of Neurodevelopmental Disability: Scoping Review of Economic Evaluation Methods](https://doi.org/10.2147/CEOR.S370311)
+[Family and health professional perspectives of the CHD LIFE cardiac developmental long-term care pathway: a qualitative evaluation](https://doi.org/10.1038/s41390-025-04380-8)
 
-[Implementing neurodevelopmental follow-up care for children with congenital heart disease: A scoping review with evidence mapping](https://doi.org/10.1111/dmcn.15698)
+[Neurodevelopmental follow-up care pathways and processes for children with congenital heart disease in Australia](https://doi.org/10.1038/s41390-024-03722-2)
 
 [“It’s more than just a conversation about the heart”: exploring barriers, enablers, and opportunities for improving the delivery and uptake of cardiac neurodevelopmental follow-up care](https://doi.org/10.3389/fped.2024.1364190)
 
-[Family and health professional perspectives of the CHD LIFE cardiac developmental long-term care pathway: a qualitative evaluation](https://doi.org/10.1038/s41390-025-04380-8)
+[Implementing neurodevelopmental follow-up care for children with congenital heart disease: A scoping review with evidence mapping](https://doi.org/10.1111/dmcn.15698)
+
+[The Cost of Neurodevelopmental Disability: Scoping Review of Economic Evaluation Methods](https://doi.org/10.2147/CEOR.S370311)
 
 
 ## Other relevant resources
@@ -135,7 +156,7 @@ For travel inquiries contact [Alison](mailto:alison.farrington@qut.edu.au)
 
 For meeting outputs inquires contact [Thommi](mailto:thomasina.donovan@qut.edu.au)
 
-For meeting methodology inquires contact [Bridget](mailto:Bridget.Abell@qut.edu.au)
+For meeting methodology or evaluation inquires contact [Bridget](mailto:Bridget.Abell@qut.edu.au)
 
 For Community of Practice inquires contact [Karen](mailto:karen.eagleson@health.qld.gov.au)
 
