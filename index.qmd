@@ -17,28 +17,33 @@ format:
 
 Use your personal device (phone or laptop) to vote electronically on the importance and feasibility of each priority.
 
-1.  **Open the questionnaire**:
+1.  **Open the questionnaire**
+
     *    [Follow this link](https://www.menti.com/aln8x9bh2hcq) to Mentimeter. 
     *    Or join at [menti.com](https://www.menti.com/) | use code **5756 7874** 
 
-2. **Rate each priority** from 1 (not important/feasible) to 10( very important/feasible) based on:
-   *    **Importance**: How critical or impactful is actioning this priority for improving neurodevelopmental outcomes and follow-up care for children with CHD in Australia?
-   *    **Feasibility**: How realistically and easily can this priority be actioned within our current capacity (e.g., time, budget, skills, partnerships, infrastructure, policy)? 
 
-3. **View the results**:
-After voting, Mentimeter will display the average scores on a 2x2 matrix, showing all priorities plotted by importance and feasibility.
+2. **Rate each priority** from 1 (not important/feasible) to 10( very important/feasible) based on:
+
+    *    **Importance**: How critical or impactful is actioning this priority for improving neurodevelopmental outcomes and follow-up care for children with CHD in Australia?
+    *    **Feasibility**: How realistically and easily can this priority be actioned within our current capacity (e.g., time, budget, skills, partnerships, infrastructure, policy)? 
+
+
+3. **View the results**
+
+    *    After voting, Mentimeter will display the average scores on a 2x2 matrix, showing all priorities plotted by importance and feasibility.
 
 ![2x2 matrix](https://github.com/Thomasina-Donovan/NationalPrioritySettingMeeting_cardiacNDcare/raw/main/assets/Mentimeter_v2.png)
 
 ### About the Matrix
 The **Importance–Feasibility Matrix** helps evaluate tasks, projects, or ideas based on their potential impact and effort required. This visual tool supports better resource allocation and decision-making.
 
-**Categories:**
+##### Categories
 
-*    ***Quick wins***: High importance, high feasibility
-*    ***Major projects***: High importance, low feasibility
-*    ***Low-impact tasks***: Low importance, high feasibility
-*    ***Time-consuming tasks***: Low importance, low feasibility
+  *    ***Quick wins***: high importance, high feasibility
+  *    ***Major projects***: high importance, low feasibility
+  *    ***Low-impact tasks***: low importance, high feasibility
+  *    ***Time-consuming tasks***: low importance, low feasibility
 
 
 ## Provide feedback on priorities
